@@ -58,7 +58,7 @@ CREATE TABLE Produtos (
 ```
 </details>
 
-## 🚀 Instalação e execução
+## ⚙️ Instalação e execução
 
 <details> <summary>Clique para ver</summary>
 ## Clone o repositório:
@@ -90,5 +90,7 @@ SQL_PASSWORD=...
 
 streamlit run app.py
 </details>
+
+![Imagem ilustrativa do projeto](img/img1.png)
 
 
