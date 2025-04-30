@@ -55,7 +55,7 @@ CREATE TABLE Produtos (
     preco DECIMAL(10, 2),
     imagem_url TEXT
 );
-
+```
 
 ## 🚀 Instalação e execução
 
