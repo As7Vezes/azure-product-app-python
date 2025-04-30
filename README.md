@@ -55,5 +55,40 @@ CREATE TABLE Produtos (
     preco DECIMAL(10, 2),
     imagem_url TEXT
 );
+```
+</details>
+
+## 🚀 Instalação e execução
+
+<details> <summary>Clique para ver</summary>
+## Clone o repositório:
+
+git clone https://github.com/seu-usuario/streamlit-product-catalog.git
+cd streamlit-product-catalog
+
+## Crie um ambiente virtual e ative:
+
+```python -m venv venv```
+```source venv/bin/activate  # ou venv\Scripts\activate no Windows```
+
+## Instale as dependências:
+
+pip install -r requirements.txt
+
+## Crie um arquivo .env com suas credenciais:
+
+BLOB_CONNECTION_STRING=...
+BLOB_CONTAINER_NAME=...
+BLOB_ACCOUNT_NAME=...
+
+SQL_SERVER=...
+SQL_DATABASE=...
+SQL_USER=...
+SQL_PASSWORD=...
+
+## Execute a aplicação:
+
+streamlit run app.py
+</details>
 
 
