@@ -56,6 +56,7 @@ CREATE TABLE Produtos (
     imagem_url TEXT
 );
 ```
+</details>
 
 ## 🚀 Instalação e execução
 
